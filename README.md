@@ -26,5 +26,5 @@ The contents of this repository are:
 	- makeplanets_data: data necessary to use the makeplanet_SWIFT_share.ipynb planet generation notebook
 	- survey data: A small collection of output hdf5 files from SWIFT to show the structure of the simulation outputs, the full collection of simulation outputs is included in the Dryad repository (DOI: 10.5061/dryad.vdncjsz44)
 	- Postema2024: A small collection of files used by collisionmap.ipynb necessary to create the collision maps used in this manuscript
-	- woma: A version of the WoMa Python package with the EOS routine files modified to properly handle pyrolite material IDs. Download WoMa from https://github.com/srbonilla/WoMa and replace some of the files with the versions included here.
+	- woma: A version of the WoMa Python package with the EOS routine files modified to properly handle pyrolite material IDs. Download WoMa from https://github.com/srbonilla/WoMa and replace the files with the versions included here.
 	- Old: old versions of figure plotting notebooks, includes a large amount of unused figures and old code, included for curiosity and archival purposes

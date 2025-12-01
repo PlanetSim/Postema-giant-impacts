@@ -37,7 +37,6 @@ print(woma.__file__)
 #import gadget_sph
 import yaml
 #sys.path.append('/home/apostema/hercules/HERCULES_development/Tutorial_beta/Analysis_scripts')
-sys.path.append('C:/Users/gerri/HERCULES_development/Tutorial_beta/Analysis_scripts/')
 sys.path.append('/home/apostema/hercules/HERCULES_development/Tutorial_beta/Analysis_scripts/')
 from HERCULES_structures import *
 
