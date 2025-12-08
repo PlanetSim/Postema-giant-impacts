@@ -1,5 +1,4 @@
-# SWIFT-survey-2024-paper-data
- Metadata and plotting code for Postema *et al* 2025
+# Metadata and plotting code for Postema *et al* 2025
 
 This repository contains several Python code files and Jupyter notebooks necessary for analyzing the data and reproducing the figures included in "Thermal and rotational effects of giant impacts during terrestrial planet accretion" by A.N. Postema, S.J. Lock, and S.T. Stewart.
 
